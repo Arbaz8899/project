@@ -1,0 +1,11 @@
+127.0.0.1 - - [30/Mar/2023:11:21:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:11:21:29 +0530] "GET /TechBlog/index.jsp HTTP/1.1" 200 6841
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:11:21:30 +0530] "GET /TechBlog/my.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:11:21:32 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:32:36 +0530] "GET /TechBlog/login-page.jsp HTTP/1.1" 200 4696
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:32:58 +0530] "POST /TechBlog/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:33:00 +0530] "GET /TechBlog/profile.jsp HTTP/1.1" 200 8224
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:36:36 +0530] "GET /TechBlog/profile.jsp HTTP/1.1" 200 8281
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:37:10 +0530] "GET /TechBlog/LogoutServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:37:10 +0530] "GET /TechBlog/login-page.jsp HTTP/1.1" 200 4802
+0:0:0:0:0:0:0:1 - - [30/Mar/2023:12:37:13 +0530] "GET /TechBlog/index.jsp HTTP/1.1" 200 6841

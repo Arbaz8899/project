@@ -1,0 +1,13 @@
+127.0.0.1 - - [19/Mar/2023:11:31:06 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:31:12 +0530] "GET /TechBlog/index.jsp HTTP/1.1" 200 6949
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:31:13 +0530] "GET /TechBlog/my.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:31:16 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:32:06 +0530] "GET /TechBlog/register-page.jsp HTTP/1.1" 200 5395
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:32:47 +0530] "POST /TechBlog/UserServlet HTTP/1.1" 200 4
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:46:52 +0530] "GET /TechBlog/register-page.jsp HTTP/1.1" 200 5395
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:47:25 +0530] "POST /TechBlog/UserServlet HTTP/1.1" 200 17
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:47:43 +0530] "POST /TechBlog/UserServlet HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:11:48:57 +0530] "POST /TechBlog/UserServlet HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:12:20:50 +0530] "GET /TechBlog/register-page.jsp HTTP/1.1" 200 6060
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:12:23:12 +0530] "POST /TechBlog/UserServlet HTTP/1.1" 200 6
+0:0:0:0:0:0:0:1 - - [19/Mar/2023:12:25:19 +0530] "GET /TechBlog/register-page.jsp HTTP/1.1" 200 5268
